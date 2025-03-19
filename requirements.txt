@@ -1,0 +1,11 @@
+streamlit
+sentence-transformers
+numpy
+faiss-cpu
+requests
+beautifulsoup4
+Pillow
+pytesseract
+python-dotenv
+ollama  # If this is available on PyPI; if not, check how to install it
+
